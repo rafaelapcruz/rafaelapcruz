@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+### My name is Rafaela Cruz. I have a passion for Science and a crush on Software Development.
+
+Languages:
+- HTML
+- CSS 
+- Ruby
+- JavaScript
+- Python
+
 <!--
 **rafaelapcruz/rafaelapcruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
