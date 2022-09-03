@@ -2,12 +2,9 @@
 
 ### My name is Rafaela Cruz. I have a passion for Science and a crush on Software Development.
 
-Languages:
-- HTML
-- CSS 
-- Ruby
-- JavaScript
-- Python
+Languages: HTML, CSS, JavaScript, Python, Ruby...
+
+Currently working with Drupal 9.
 
 <!--
 **rafaelapcruz/rafaelapcruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
